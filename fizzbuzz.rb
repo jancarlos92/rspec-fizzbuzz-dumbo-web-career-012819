@@ -7,7 +7,7 @@ def fizzbuzz(x)
     elsif x % 3 == 0
     "Fizz"
     elsif x / 4 == 0 
-    return NIL
+    return 
  end
 end
 
